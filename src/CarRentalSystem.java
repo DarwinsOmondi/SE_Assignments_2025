@@ -1,3 +1,24 @@
+/*
+Java Car Rental System Documentation
+
+        Overview
+
+The CarRentalSystem is a command-line-based car rental management application that allows users to:
+
+Add new cars and customers.
+Rent and return cars.
+Display the list of available cars and registered customers.
+Exit the system.
+
+        Features
+
+Supports adding cars with unique IDs and models.
+Allows adding customers with unique IDs and names.
+Facilitates renting and returning cars.
+
+*/
+
+
 import java.util.Scanner;
 
 public class CarRentalSystem {

@@ -1,3 +1,21 @@
+
+/*Java Login System Documentation
+
+        Overview
+
+        The LoginSystem program is a simple command-line-based authentication system that allows users to set up a username and password, then attempts to log in by verifying the provided credentials. The program grants access only if the correct credentials are entered within a limited number of attempts.
+
+        Features
+
+        Allows users to set a username and password.
+
+        Uses a secure method to input passwords (via Console.readPassword() if available).
+
+        Provides three login attempts before terminating access.
+
+        Notifies the user of login success or failure.
+*/
+
 import java.io.Console;
 import java.util.Scanner;
 
